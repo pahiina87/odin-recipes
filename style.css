@@ -1,0 +1,14 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subheader {
+    color:orange;
+    text-decoration: underline;
+}
+
+.title {
+    color: rgb(155, 0, 0);
+    text-align: center;
+    background-color: lightblue;
+}
